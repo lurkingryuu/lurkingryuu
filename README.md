@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lurkingryuu
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Web Development
-- 🌱 I’m currently learning javascript, intermediate python, React
+- 👋 Hi, I’m Karthikeya (@lurkingryuu)
+- 👀 I’m interested in Backend development, hosting and utilizing cloud services, Homelab setup.
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me mail:- yelisettikarthik0@gmail.com, yk553@kgpian.iitkgp.ac.in
 
